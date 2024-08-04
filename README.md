@@ -41,3 +41,7 @@ Windows
 ```
 $ python run.py <file_path>
 ```
+
+- Reference:
+https://medium.com/@writingforara/solving-vehicle-routing-problems-with-python-heuristics-algorithm-2cc57fe7079c
+https://www.routific.com/blog/travelling-salesman-problem
